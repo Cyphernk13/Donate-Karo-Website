@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+A user friendly interactive site to collect donations for those in need :)
